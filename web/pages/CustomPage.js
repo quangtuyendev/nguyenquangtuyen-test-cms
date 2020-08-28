@@ -7,7 +7,7 @@ class CustomPage extends React.Component {
     const {config} = this.props
     return (
       <Layout config={config}>
-        <h1>A custom page</h1>
+        <h1>This is content changed</h1>
       </Layout>
     )
   }
